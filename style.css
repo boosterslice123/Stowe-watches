@@ -1,0 +1,128 @@
+/* CSS */
+body {
+    margin: 0;
+}
+
+span {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+#border{
+	p.solid {border-style: solid;}
+}
+
+#Title2{
+	font-size:35px;
+	color:#2A0BA7;
+}
+#Title1{
+	font-size : 35px;
+	color : #2A0BA7;
+}
+
+#header2{
+ background : white; 
+ width: 200px;
+ border: 5px black;
+ padding: 10px;
+margin: 10px;
+}
+
+#header {
+    height: 200px;
+    background-image: url('http://mtstyles4men.com/wp-content/uploads/2018/03/banner-man-wearing-luxurious-watch.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+#title {
+    color: Black;
+    margin: 0;
+    padding: 50px 20px;
+	
+}
+
+#navigation {
+    color: whitesmoke;
+    text-align: right;
+    padding: 0 10px;
+}
+
+#home-left {
+    width: 60%;
+    margin: 0 10px 10px;
+    float: left;
+}
+
+#home-right {
+    padding: 0 10px;
+
+}
+
+#pick {
+    padding: 10px 20px;
+    background-color: lightgreen;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+#footer {
+    clear: left;
+    padding: 5px 20px;
+    color: white;
+    background-color: black;
+}
+
+#spotlight, #gallery {
+    display: none;
+}
+
+#gallery .card {
+    width: 30%;
+    margin-left: 2.5%;   
+}
+
+.container {
+    max-width: 650px;
+    margin: auto;
+}
+
+.page {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.page-header {
+    color: seagreen;
+}
+
+.page-text, .card-text {
+    padding: 0 10px;
+}
+
+.card {
+    width: 47%;
+    margin-left: 2%;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    overflow: hidden;
+    float: left;
+}
+
+.card-image {
+    width: 100%;
+}
+.card-image2 {
+    width: 100%;
+}
+.card-image3 {
+    width: 100%;
+}
